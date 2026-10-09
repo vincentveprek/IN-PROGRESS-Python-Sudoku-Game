@@ -1,11 +1,14 @@
-max_number = 100
-max_on_line = 10
+max_number = 81
+max_on_line = 9
 number_counter = 1
 
 while number_counter <= max_number:
     print(number_counter, end=' ')
-    
-    if number_counter % max_on_line == 0:
+
+    if number_counter <= 8:
+        print(end=' ')
+        
+    elif number_counter % max_on_line == 0:
         print("")
         
     number_counter +=1
