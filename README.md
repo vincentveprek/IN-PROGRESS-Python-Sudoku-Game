@@ -4,7 +4,7 @@
 
 ## 📅 Recent Updates
 * **October 12th 2026:** Implemented logic to print numbers 1 through 9 within each individual 3x3 subgrid.
-* *(Coming next):*
+* *(Coming next):* Version 2 update. Starting from scratch to create code that better resembles the game Sudoku. In addition, to programming it in Python we will have its equivalance written in C.
 
 ---
 
