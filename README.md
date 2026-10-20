@@ -3,7 +3,7 @@
 > ⚠️ **Active Development:** I am currently building, breaking, and refactoring this project daily as I explore Python and C algorithms, grid logic, and UI design. 
 
 ## 📅 Recent Updates
-* **October 20th 2026:** Adding an additional matrix filled with number 8s. The goal is determine when the matrix is filled (numbers that are not 0 and are numbers from the numbers 1-9). Where once verification has passed in checking if it is filled or not a short summary report will be produced indicating whether it is filled or not. 
+* **October 20th 2026:** Added an additional matrix filled with number 8s. The goal is determine when the matrix is filled (numbers that are not 0 and are numbers from the numbers 1-9). Where once verification has passed in checking if it is filled or not a short summary report will be produced indicating whether it is filled or not. 
 * *(Coming next):*
 
 ---
